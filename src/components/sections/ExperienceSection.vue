@@ -30,24 +30,5 @@ import { EXPERIENCE, EDUCATION } from '@/data/experience.js'
       </li>
     </ul>
 
-    <section>
-      <h2 class="text-sm font-semibold uppercase tracking-wider text-muted">
-        // Education
-      </h2>
-      <ul class="mt-3 space-y-3">
-        <li
-          v-for="edu in EDUCATION"
-          :key="edu.id"
-          class="rounded-md border border-border bg-panel/60 p-3"
-        >
-          <div class="flex flex-wrap items-baseline justify-between gap-2">
-            <p class="font-display text-base font-bold">{{ edu.title }}</p>
-            <span class="text-xs text-muted">{{ edu.range }}</span>
-          </div>
-          <p class="text-sm text-accent2">{{ edu.institution }}</p>
-          <p v-if="edu.notes" class="text-xs text-muted">{{ edu.notes }}</p>
-        </li>
-      </ul>
-    </section>
   </article>
 </template>

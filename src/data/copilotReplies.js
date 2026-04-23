@@ -1,8 +1,8 @@
 export const INTENTS = [
   {
     id: 'identity',
-    keywords: ['who are you', 'your name', 'what are you', 'aahana.exe'],
-    reply: "No name, just Your Name's Copilot — think of me as the portfolio's unpaid intern.",
+    keywords: ['who are you', 'Sujan Shrestha', 'what are you', 'aahana.exe'],
+    reply: "No name, just Sujan Shrestha's Copilot — think of me as the portfolio's unpaid intern.",
   },
   {
     id: 'who',

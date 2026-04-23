@@ -47,7 +47,7 @@ const iconMap = {
           v-model="form.name"
           type="text"
           class="rounded border border-border bg-tab px-3 py-2 text-sm outline-none focus:border-accent"
-          placeholder="your name"
+          placeholder="Sujan Shrestha"
         />
       </label>
       <label class="flex flex-col gap-1 text-xs text-muted">

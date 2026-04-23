@@ -52,10 +52,7 @@ export const SECTIONS = {
 export const SECTION_ORDER = ['home', 'about', 'projects', 'skills', 'experience', 'contact', 'readme', 'resume']
 
 export const SOCIALS = [
-  { id: 'github', label: 'github.url', href: '#' },
-  { id: 'linkedin', label: 'linkedin.url', href: '#' },
-  { id: 'medium', label: 'medium.url', href: '#' },
-  { id: 'twitter', label: 'twitter.url', href: '#' },
-  { id: 'youtube', label: 'youtube.url', href: '#' },
-  { id: 'leetcode', label: 'leetcode.url', href: '#' },
+  { id: 'github', label: 'github.url', href: 'https://github.com/its-me-sujan/' },
+  { id: 'linkedin', label: 'linkedin.url', href: 'https://www.linkedin.com/in/er-sujan-shrestha-32907a1a5/' },
+  { id: 'instagram', label: 'instagram.url', href: 'https://instagram.com/sujanshrestha___' },
 ]

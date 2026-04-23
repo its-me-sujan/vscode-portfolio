@@ -6,7 +6,7 @@ const tabs = useTabsStore()
 <template>
   <article class="prose mx-auto max-w-3xl space-y-4 animate-fade-in">
     <h1 class="font-display text-3xl font-bold text-fg">
-      <span class="text-accent"># </span>Your Name — Portfolio
+      <span class="text-accent"># </span>Sujan Shrestha — Portfolio
     </h1>
     <p class="text-sm text-muted">
       A VS Code-themed portfolio written in <span class="text-accent">Vue 3</span>,

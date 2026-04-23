@@ -163,7 +163,7 @@ const menus = [
       </nav>
     </div>
     <div class="truncate font-mono text-[11px]">
-      Your Name — Portfolio
+      Sujan Shrestha — Portfolio
     </div>
     <div class="flex items-center">
       <button class="grid h-8 w-10 place-items-center hover:bg-panel" aria-label="Minimize">
