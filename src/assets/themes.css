@@ -1,0 +1,89 @@
+/* VS Code Dark+ (default — "aahana-dark" equivalent) */
+[data-theme='dark'] {
+  --bg: 30 30 30;
+  --fg: 212 212 212;
+  --muted: 128 128 128;
+  --accent: 137 180 250;
+  --accent-2: 203 166 247;
+  --border: 60 60 60;
+  --panel: 37 37 38;
+  --sidebar: 37 37 38;
+  --activitybar: 51 51 51;
+  --tab: 45 45 45;
+  --tab-active: 30 30 30;
+  --statusbar: 0 122 204;
+  --terminal: 24 24 24;
+  --selection: 38 79 120;
+}
+
+/* Catppuccin Mocha */
+[data-theme='catppuccin'] {
+  --bg: 30 30 46;
+  --fg: 205 214 244;
+  --muted: 147 153 178;
+  --accent: 137 180 250;
+  --accent-2: 203 166 247;
+  --border: 49 50 68;
+  --panel: 24 24 37;
+  --sidebar: 24 24 37;
+  --activitybar: 17 17 27;
+  --tab: 24 24 37;
+  --tab-active: 30 30 46;
+  --statusbar: 137 180 250;
+  --terminal: 17 17 27;
+  --selection: 88 91 112;
+}
+
+/* Tokyo Night */
+[data-theme='tokyo'] {
+  --bg: 26 27 38;
+  --fg: 192 202 245;
+  --muted: 86 95 137;
+  --accent: 122 162 247;
+  --accent-2: 187 154 247;
+  --border: 41 46 66;
+  --panel: 22 22 30;
+  --sidebar: 22 22 30;
+  --activitybar: 15 15 23;
+  --tab: 22 22 30;
+  --tab-active: 26 27 38;
+  --statusbar: 122 162 247;
+  --terminal: 15 15 23;
+  --selection: 40 52 87;
+}
+
+/* Gruvbox Dark */
+[data-theme='gruvbox'] {
+  --bg: 40 40 40;
+  --fg: 235 219 178;
+  --muted: 168 153 132;
+  --accent: 250 189 47;
+  --accent-2: 211 134 155;
+  --border: 60 56 54;
+  --panel: 50 48 47;
+  --sidebar: 50 48 47;
+  --activitybar: 29 32 33;
+  --tab: 50 48 47;
+  --tab-active: 40 40 40;
+  --statusbar: 250 189 47;
+  --terminal: 29 32 33;
+  --selection: 80 73 69;
+}
+
+/* Nord */
+[data-theme='nord'] {
+  --bg: 46 52 64;
+  --fg: 216 222 233;
+  --muted: 136 148 171;
+  --accent: 136 192 208;
+  --accent-2: 180 142 173;
+  --border: 67 76 94;
+  --panel: 59 66 82;
+  --sidebar: 59 66 82;
+  --activitybar: 46 52 64;
+  --tab: 59 66 82;
+  --tab-active: 46 52 64;
+  --statusbar: 94 129 172;
+  --terminal: 46 52 64;
+  --selection: 67 76 94;
+}
