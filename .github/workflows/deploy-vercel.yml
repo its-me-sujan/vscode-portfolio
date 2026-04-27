@@ -27,4 +27,3 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-deployment: true
           target: production
-          working-directory: .
