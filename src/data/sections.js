@@ -19,9 +19,9 @@ export const SECTIONS = {
   },
   skills: {
     id: 'skills',
-    title: 'skills.yaml',
-    language: 'YAML',
-    icon: 'yaml',
+    title: 'skills.js',
+    language: 'JavaScript',
+    icon: 'js',
   },
   experience: {
     id: 'experience',

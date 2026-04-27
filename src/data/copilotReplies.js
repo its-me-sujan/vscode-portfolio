@@ -12,7 +12,7 @@ export const INTENTS = [
   {
     id: 'skills',
     keywords: ['skill', 'stack', 'tech'],
-    reply: 'Yeah, check skills.yaml for the full breakdown — languages, frameworks, AI tooling, the works.',
+    reply: 'Yeah, check skills.js for the full breakdown — languages, frameworks, AI tooling, the works.',
   },
   {
     id: 'projects',

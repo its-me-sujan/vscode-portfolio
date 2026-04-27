@@ -9,7 +9,7 @@ import { SKILL_CATEGORIES } from '@/data/skills.js'
         <span class="text-accent">skills</span>
         <span class="text-muted">:</span>
       </h1>
-      <p class="mt-1 text-sm text-muted">skills.yaml — the tools, not the title</p>
+        <p class="mt-1 text-sm text-muted">skills.js — the tools, not the title</p>
     </header>
 
     <section v-for="cat in SKILL_CATEGORIES" :key="cat.id" class="space-y-2">
